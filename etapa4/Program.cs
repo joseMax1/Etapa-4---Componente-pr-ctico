@@ -3,7 +3,9 @@
 // Grupo: 30
 
 // Enunciado del ejercicio:
-// Este programa solicita al usuario ingresar 10 números diferentes, y posteriormente los ordena según el método de ordenamiento que elija entre las siguientes opciones: Burbuja, Shell, Selección o Inserción. El sistema maneja excepciones para evitar duplicados y entradas no válidas. Además, permite almacenar los resultados ordenados en un archivo de texto llamado SortedNumbers.txt.
+// Este programa solicita al usuario ingresar 10 números diferentes, y posteriormente los ordena según el método de 
+//ordenamiento que elija entre las siguientes opciones: Burbuja, Shell, Selección o Inserción. El sistema maneja excepciones para evitar duplicados y 
+//entradas no válidas. Además, permite almacenar los resultados ordenados en un archivo de texto llamado SortedNumbers.txt.
 
 // El menú y las instrucciones que se muestran al usuario estarán en inglés. A lo largo del proceso, el programa:
 
